@@ -1,3 +1,9 @@
+Note:
+This is copied by me for my testing.
+Tsukasa
+----
+
+
 The BodgeIt Store is a vulnerable web application which is currently aimed at people who are new to pen testing.
 
 > ### Please note that The BodgeIt Store is no longer being worked on
