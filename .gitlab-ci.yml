@@ -1,0 +1,3 @@
+dummy_job:
+  script:
+    - echo "This pipeline does nothing"
